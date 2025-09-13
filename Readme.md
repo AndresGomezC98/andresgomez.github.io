@@ -17,7 +17,7 @@ My long-term goal is to transition into **Data Engineering**, where I can design
   - Casual riders take longer trips, mostly on weekends.  
   - Members ride more frequently, but for shorter durations.  
 - **Deliverables**:  
-  - [📄 Download the Case Study PDF](case_study/Cyclistic_Case_Study_Google.pdf)   
+  - [📄 Download the Case Study PDF](https://andresgomezc98.github.io/cyclistic-portfolio/case_study/Cyclistic_Case_Study_Google.pdf)    
   - 📊 [Cyclistic Ride-Sharing Analytics Dashboard](https://public.tableau.com/views/Casestudygoogle/CyclisticRide-SharingAnalyticsDashboard) 
 
 *(More projects coming soon...)*  
