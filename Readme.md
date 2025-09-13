@@ -10,15 +10,15 @@ My long-term goal is to transition into **Data Engineering**, where I can design
 
 ## 🚀 Projects
 
-### [Cyclistic Bike-Share Case Study](https://github.com/AndresGomezC98/cyclistic-portfolio)
+### [Cyclistic Bike-Share Case Study](https://andresgomezc98.github.io/cyclistic-portfolio/)
 - **Tools**: SQL, Excel, Tableau  
 - **Goal**: Understand how annual members and casual riders use Cyclistic bikes differently.  
 - **Key Insights**:  
   - Casual riders take longer trips, mostly on weekends.  
   - Members ride more frequently, but for shorter durations.  
 - **Deliverables**:  
-  - 📄 [Case Study PDF](https://github.com/AndresGomezC98/cyclistic-portfolio/blob/main/Case%20Study/Cyclistic_Case_Study_Google.pdf)  
-  - 📊 [Interactive Tableau Dashboard](https://public.tableau.com/authoring/Casestudygoogle/CyclisticRide-SharingAnalyticsDashboard#2)  
+  - [📄 Download the Case Study PDF](case_study/Cyclistic_Case_Study_Google.pdf)   
+  - 📊 [Cyclistic Ride-Sharing Analytics Dashboard](https://public.tableau.com/views/Casestudygoogle/CyclisticRide-SharingAnalyticsDashboard) 
 
 *(More projects coming soon...)*  
 
